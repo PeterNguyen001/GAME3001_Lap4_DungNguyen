@@ -1,0 +1,429 @@
+﻿  imgui.cpp
+  SpaceShip.cpp
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\SpaceShip.cpp(12,15): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\SpaceShip.cpp(13,16): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\SpaceShip.cpp(33,55): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\SpaceShip.cpp(33,27): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Tile.cpp
+  UIControl.cpp
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\UIControl.cpp(33,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\UIControl.cpp(33,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  EndScene.cpp
+  Game.cpp
+  PlayScene.cpp
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\PlayScene.cpp(100,62): warning C4838: conversion from 'T' to 'int' requires a narrowing conversion
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\PlayScene.cpp(100,62): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\PlayScene.cpp(100,94): warning C4838: conversion from 'T' to 'int' requires a narrowing conversion
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\PlayScene.cpp(100,94): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\PlayScene.cpp(111,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\PlayScene.cpp(111,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\PlayScene.cpp(153,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\PlayScene.cpp(153,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\main.cpp(9,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ship.cpp
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\ship.cpp(12,15): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\ship.cpp(13,16): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\ship.cpp(37,46): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\ship.cpp(37,43): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\ship.cpp(149,35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\ship.cpp(149,22): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  EventManager.cpp
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\EventManager.cpp(119,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\EventManager.cpp(178,37): warning C4244: '=': conversion from 'Sint32' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\EventManager.cpp(179,37): warning C4244: '=': conversion from 'Sint32' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  StartScene.cpp
+  TextureManager.cpp
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\TextureManager.cpp(137,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\TextureManager.cpp(137,21): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\TextureManager.cpp(138,37): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\TextureManager.cpp(138,21): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\TextureManager.cpp(180,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\TextureManager.cpp(180,21): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\TextureManager.cpp(181,37): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\TextureManager.cpp(181,21): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\TextureManager.cpp(197,34): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\TextureManager.cpp(197,26): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\TextureManager.cpp(225,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\TextureManager.cpp(225,26): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\TextureManager.cpp(232,32): warning C4018: '>': signed/unsigned mismatch
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\TextureManager.cpp(260,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\TextureManager.cpp(260,21): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\TextureManager.cpp(261,37): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\TextureManager.cpp(261,21): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\TextureManager.cpp(290,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\TextureManager.cpp(290,21): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\TextureManager.cpp(291,37): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\TextureManager.cpp(291,21): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\TextureManager.cpp(310,11): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\TextureManager.cpp(311,11): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Util.cpp
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(266,15): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(267,15): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(283,16): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(315,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(316,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(317,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(318,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(323,59): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(323,52): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(323,45): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(323,36): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(329,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(330,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(331,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(332,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(335,24): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(336,24): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(349,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(350,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(351,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(352,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(357,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(371,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(371,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(372,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(372,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(373,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(373,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(374,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(374,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(378,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(378,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(379,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(379,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(380,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(380,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(381,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(381,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(385,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(385,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(386,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(386,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(387,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(387,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(388,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(388,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(392,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(392,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(393,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(393,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(394,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(394,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(395,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(395,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(399,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(399,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(400,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(400,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(401,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(401,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(402,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(402,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(403,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(403,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(404,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(404,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(405,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(405,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(406,57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(406,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(433,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(434,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(439,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(449,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\src\Util.cpp(458,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Template.vcxproj -> C:\Users\nguye\source\repos\GAME3001\GAME3001-W2021-Lab4-master\bin\Debug\Template.exe
